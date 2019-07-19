@@ -1,4 +1,8 @@
-# Joe's dotfiles
+# dotfiles
 
-Consider using gnu stow
+Basic for a reason: I try to keep them portable
+
+Consider using:
+    https://yadm.io/
+    gnu stow 
 

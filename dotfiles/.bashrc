@@ -132,6 +132,7 @@ alias .2='cd ../..'
 alias .3='cd ../../..'
 alias .4='cd ../../../..'
 alias .5='cd ../../../../..'
+
 alias pyhton='python'
 alias mkdir='mkdir -pv'
 # alias ports='netstat -tulpan'
@@ -141,9 +142,9 @@ alias rm='rm -v'
 # alias ping='grc ping' 
 # alias ifconfig='grc ifconfig'
 
-# alias gitlog='git log --decorate --graph'
-# alias gitlog1='git log --decorate --graph --oneline'
-# alias gitst='git status'
+alias gitlog='git log --decorate --graph'
+alias gitlog1='git log --decorate --graph --oneline'
+alias gitst='git status'
 
 # fns
 function mcd () {
