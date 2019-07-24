@@ -1,7 +1,8 @@
 " see also: https://dougblack.io/words/a-good-vimrc.html
 
 " enter the current millenium
-set nocompatible
+" set nocompatible
+
 
 " Eye candy
 set number
@@ -10,6 +11,7 @@ set cursorline
 set showmatch
 set showcmd
 set noerrorbells
+set vb t_vb=     " no visual bell & flash
 " set colorcolumn=80
 " highlight ColorColumn ctermbg=0 guibg=lightgrey
 set ruler
